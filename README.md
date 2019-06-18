@@ -20,7 +20,7 @@ $ git clone https://github.com/Soerja775/DOGEClickBot/Dogecoin_click_bot.zip<br>
 $ unzip Dogecoin_click_bot.zip<br>
 $ cd Dogecoin_click_bot<br>
 $ pip install -r requirements.txt<br>
-$ python join.py/msg.py phone_number (PENTING! HARUS EKSEKUSI join.py/msg.py/visit.py(No Skip Captcha) TERLEBIH DAHULU! JANGAN EKSEKUSI main.py(Skip Captcha) TERLEBIH DAHULU!)<br>
+$ python join.py/msg.py phone_number (PENTING! HARUS EKSEKUSI join.py/msg.py/visit.py(No Skip Captcha) TERLEBIH DAHULU! JANGAN EKSEKUSI main.py(Skip Captcha) TERLEBIH DAHULU! KARENA main.py TELAH DIENKRIPSI OLEH PEMBUAT SCRIPT)<br>
 Note :
 - Bisa Menggunakan Nomor Luar/ID, Syarat Input Nomor : python main.py +62********* / python main.py +1**********
 - Input OTP
