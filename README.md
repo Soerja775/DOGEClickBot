@@ -6,7 +6,7 @@ Hargai Refferal : https://t.me/Dogecoin_click_bot?start=3sYN
 $ pkg update && pkg upgrade<br>
 $ pkg install python git unzip<br>
 $ pip install --upgrade pip<br>
-$ git clone https://github.com/Soerja775/DOGEClickBot<br>
+$ git clone https://github.com/Soerja775/DOGEClickBot/dogeclickbot.zip<br>
 $ cd DOGEClickBot<br>
 $ unzip dogeclickbot.zip<br>
 $ cd dogeclickbot<br>
