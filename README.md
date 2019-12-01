@@ -1,6 +1,6 @@
 # DOGEClickBot
 # Link DOGEClickBot Telegram
-Hargai Refferal : https://t.me/Dogecoin_click_bot?start=3sYN
+Hargai Refferal : https://t.me/Dogecoin_click_bot?start=AsJR
 
 # Cara Install
 # Cara Lama (Termux) (No Skip Captcha) (No Message Bots) (No Join Chats) (Not Recommended)
